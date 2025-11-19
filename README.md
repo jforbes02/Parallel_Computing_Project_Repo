@@ -1,6 +1,8 @@
 # Parallel_Computing_Project_Repo
 Repo for the Three projects needed for parallel computing class 
+
 Project Instructions
+
 For each of the following projects:
 a. The first step is to write a serial code to solve the problem, then you will start writing the parallel code.
 b. Provide a clear and organized documentation for the chosen project (for the source code and the mean ideas you followed to solve the problem). Your report should compare the performance of the serial and parallel codes against different inputs that vary in their size and difficulty, you should enrich your report with discussions, tables, figures, and charts.
